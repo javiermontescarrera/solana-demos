@@ -1,0 +1,3 @@
+[submodule "Calyptus/ts-token-solana"]
+	path = Calyptus/ts-token-solana
+	url = https://github.com/javiermontescarrera/ts-token-solana.git
