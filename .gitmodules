@@ -7,3 +7,6 @@
 [submodule "Encode/solana-bootcamp-project"]
 	path = Encode/solana-bootcamp-project
 	url = https://github.com/javiermontescarrera/solana-bootcamp-project.git
+[submodule "Calyptus/anchor-todo-list"]
+	path = Calyptus/anchor-todo-list
+	url = https://github.com/javiermontescarrera/anchor-todo-list.git
